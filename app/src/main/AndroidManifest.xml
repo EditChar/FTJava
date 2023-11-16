@@ -21,6 +21,12 @@
         android:theme="@style/Theme.FTJava"
         tools:targetApi="31">
         <activity
+            android:name=".InventoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FARM"
+            android:exported="false" />
+        <activity
             android:name=".FT"
             android:exported="false" />
         <activity

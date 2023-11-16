@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FTJava</string>
+    <string name="total">Total: %s</string>
 </resources>
